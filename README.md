@@ -52,43 +52,31 @@
 
 ### Authentication Using Firebase Google SignIn
 
-![Authentication Using Firebase Google SignIn](https://github.com/manik-18/GameChain/assets/102967918/f9bc55bb-a10b-43a7-b0aa-fe06d012a132)
+![Screenshot 2023-12-10 055059](https://github.com/manik-18/GameChain-ETHIndia2023/assets/102967918/e0bedec7-78c2-445f-89f6-a042c2019f60)
 
 ### Home Page
 
-![Home Page](https://github.com/manik-18/GameChain/assets/102967918/4994f52b-9189-4a78-867e-bf7cea1b5faf)
 
 ### Upload
 
-![Upload](https://github.com/manik-18/GameChain/assets/102967918/222b341a-864b-470c-885e-321a981f6134)
 
 ### News
 
-![News](https://github.com/manik-18/GameChain/assets/102967918/916f1717-f28a-417b-8ab8-56623b26e9a9)
 
 ### View
 
-![View](https://github.com/manik-18/GameChain/assets/102967918/aa46d780-13a4-49ed-8fbf-c8748b076e49)
 
 ### About Game
 
-![About Game](https://github.com/manik-18/GameChain/assets/102967918/11837075-dedb-4da2-b4f3-93b8691b96d6)
 
 ### Push Protocol
 
-![Push Protocol 1](https://github.com/manik-18/GameChain/assets/102967918/7debfe90-4e33-4a0a-84ec-6e0dcb69ffcd)
-
-![Push Protocol 2](https://github.com/manik-18/GameChain/assets/102967918/82bc3c0c-351b-40af-9971-9e5b16c12ed7)
 
 ### Light House
 
-![Light House](https://github.com/manik-18/GameChain/assets/102967918/d11d4b59-de97-4ece-bb1b-76f505827eb5)
 
 ### About Us
 
-![About Us 1](https://github.com/manik-18/GameChain/assets/102967918/d1592378-8e09-489d-9c69-4f86ed97725b)
-
-![About Us 2](https://github.com/manik-18/GameChain/assets/102967918/47d486f5-92f7-4405-991d-b570dda3bbf6)
 
 ## Contributors
 
