@@ -56,27 +56,37 @@
 
 ### Home Page
 
+![Screenshot 2023-12-10 024007](https://github.com/manik-18/GameChain-ETHIndia2023/assets/102967918/b2878b84-b168-4715-b19d-461012832408)
+
+![Screenshot 2023-12-10 024031](https://github.com/manik-18/GameChain-ETHIndia2023/assets/102967918/f99707b7-80f6-4256-b935-28e054b886bc)
 
 ### Upload
 
+![Screenshot 2023-12-10 055008](https://github.com/manik-18/GameChain-ETHIndia2023/assets/102967918/ee2f18f2-8c06-4ece-a255-52e83fdf0028)
 
 ### News
 
-
-### View
-
+![Screenshot 2023-12-10 024210](https://github.com/manik-18/GameChain-ETHIndia2023/assets/102967918/472065c5-3b08-4c51-a1e2-3d984aa7f483)
 
 ### About Game
 
+![Screenshot 2023-12-10 024621](https://github.com/manik-18/GameChain-ETHIndia2023/assets/102967918/7de25e95-3a4e-465a-b238-4e59e525747e)
 
 ### Push Protocol
 
+![Screenshot 2023-12-10 024512](https://github.com/manik-18/GameChain-ETHIndia2023/assets/102967918/0a220ef5-65c0-4e4a-a05d-9fe3e522c0e3)
+
+![Screenshot 2023-12-10 024539](https://github.com/manik-18/GameChain-ETHIndia2023/assets/102967918/fbdb9db2-57db-4572-85a3-a531345181b3)
 
 ### Light House
 
+![Screenshot 2023-12-10 032850](https://github.com/manik-18/GameChain-ETHIndia2023/assets/102967918/b33baf81-52d3-40cf-a754-4a1b1245b623)
 
 ### About Us
 
+![Screenshot 2023-12-10 024127](https://github.com/manik-18/GameChain-ETHIndia2023/assets/102967918/1c28fec7-2888-4930-913b-64102fd3443d)
+
+![Screenshot 2023-12-10 024150](https://github.com/manik-18/GameChain-ETHIndia2023/assets/102967918/4c339f19-f70e-4432-82bc-619a18f328ca)
 
 ## Contributors
 
